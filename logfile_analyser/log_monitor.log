@@ -1,0 +1,18 @@
+2024-04-23 15:37:15,579 - INFO - Monitoring log file: path/to/your/log/file.log
+2024-04-23 15:37:15,579 - ERROR - Error occurred while monitoring log file: module 'os' has no attribute 'setpgrp'
+2024-04-23 15:37:24,466 - INFO - Monitoring log file: path/to/your/log/file.log
+2024-04-23 15:37:24,466 - ERROR - Error occurred while monitoring log file: module 'os' has no attribute 'setpgrp'
+2024-04-23 15:38:14,327 - INFO - Monitoring log file: C:\Users\Arun\filename.log
+2024-04-23 15:38:14,327 - ERROR - Error occurred while monitoring log file: module 'os' has no attribute 'setpgrp'
+2024-04-23 15:38:26,179 - INFO - Monitoring log file: C:\Users\Arun\filename.log
+2024-04-23 15:38:26,179 - ERROR - Error occurred while monitoring log file: module 'os' has no attribute 'setpgrp'
+2024-04-23 15:39:46,157 - INFO - Monitoring log file: C:\Users\Arun\filename.log
+2024-04-23 15:39:46,157 - ERROR - Error occurred while monitoring log file: module 'os' has no attribute 'setpgrp'
+2024-04-23 15:43:53,475 - INFO - Monitoring log file: C:\Users\Arun\filename.log
+2024-04-23 15:43:53,476 - ERROR - Error occurred while monitoring log file: module 'os' has no attribute 'setpgrp'
+2024-04-23 15:43:59,061 - INFO - Monitoring log file: C:\Users\Arun\filename.log
+2024-04-23 15:43:59,061 - ERROR - Error occurred while monitoring log file: module 'os' has no attribute 'setpgrp'
+2024-04-23 15:46:47,142 - INFO - Monitoring log file: C:\Users\Arun\log_monitor.log
+2024-04-23 15:46:47,142 - ERROR - Error occurred while monitoring log file: module 'os' has no attribute 'setpgrp'
+2024-04-23 15:49:01,683 - INFO - Monitoring log file: C:\Users\Arun\log_monitor.log
+2024-04-23 15:49:01,683 - ERROR - Error occurred while monitoring log file: module 'os' has no attribute 'setpgrp'
